@@ -1,0 +1,12 @@
+# learning_python.txt
+
+Em Python podemos criar variáveis sem declarar o tipo de dado.
+Em Python podemos usar listas para armazenar múltiplos valores.
+Em Python podemos criar funções reutilizáveis com a palavra-chave def.
+Em Python podemos iterar sobre sequências com loops for e while.
+Em Python podemos trabalhar com dicionários para armazenar dados em pares chave-valor.
+Em Python podemos usar condicionais if, elif e else para controlar o fluxo do programa.
+Em Python podemos manipular strings com métodos integrados como lower(), upper() e split().
+Em Python podemos abrir e ler arquivos para processar dados.
+Em Python podemos organizar código em módulos e importá-los conforme necessário.
+Em Python podemos tratar erros usando blocos try e except.
