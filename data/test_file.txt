@@ -1,0 +1,4 @@
+Este é um arquivo de teste.
+Você pode usar este arquivo para praticar leitura e escrita de arquivos.
+Python torna muito fácil trabalhar com arquivos.
+Teste as diferentes operações que você aprendeu.
